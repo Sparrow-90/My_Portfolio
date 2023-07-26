@@ -15,7 +15,7 @@ const Navbar = () => {
             <button onClick={()=>{setExpandNavbar((prev)=>!prev)}}><CiMenuFries/></button>
         </div>
         <div className='links'>
-            <Link to="/">Home</Link>
+            <Link to="/My_Portfolio">Home</Link>
             <Link to="/about">About</Link>
             <Link to="/projects">Projects</Link>
             <Link to="/experience">Experience</Link>
