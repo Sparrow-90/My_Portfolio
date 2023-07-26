@@ -1,0 +1,13 @@
+.experience{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.experience-img{
+    position: absolute;
+    object-fit: cover;
+    z-index: -1
+    ;
+}
