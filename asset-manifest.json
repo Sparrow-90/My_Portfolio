@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.99c17980.css",
-    "main.js": "/My_Portfolio/static/js/main.598136f5.js",
-    "static/js/787.1ed0c42c.chunk.js": "/My_Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/pizza.png": "/My_Portfolio/static/media/pizza.b50b8b5a75c7ddd8bac8.png",
-    "static/media/hieroglyph.png": "/My_Portfolio/static/media/hieroglyph.323d7b4a815fbc9da5a1.png",
-    "static/media/slavic.png": "/My_Portfolio/static/media/slavic.f715d51a35053b73d4bb.png",
-    "static/media/alien.png": "/My_Portfolio/static/media/alien.b8c9c81edc001523d601.png",
-    "static/media/roman-city-builder.png": "/My_Portfolio/static/media/roman-city-builder.77f3bc1034f6dedf2a12.png",
-    "static/media/speech.png": "/My_Portfolio/static/media/speech.615bb3ddde7405902386.png",
-    "static/media/decision-maker.png": "/My_Portfolio/static/media/decision-maker.8e1dcb8f69bdb9e6513c.png",
-    "static/media/classic2.jpg": "/My_Portfolio/static/media/classic2.a49ed7d7564b1870f5bf.jpg",
-    "static/media/classic.jpg": "/My_Portfolio/static/media/classic.13c41db45f2fa31e73c6.jpg",
-    "static/media/fotoMW.jpg": "/My_Portfolio/static/media/fotoMW.a8b8248a2e395aafe882.jpg",
-    "index.html": "/My_Portfolio/index.html",
-    "main.99c17980.css.map": "/My_Portfolio/static/css/main.99c17980.css.map",
-    "main.598136f5.js.map": "/My_Portfolio/static/js/main.598136f5.js.map",
-    "787.1ed0c42c.chunk.js.map": "/My_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.862d99e9.css",
+    "main.js": "/static/js/main.04560313.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pizza.png": "/static/media/pizza.b50b8b5a75c7ddd8bac8.png",
+    "static/media/hieroglyph.png": "/static/media/hieroglyph.323d7b4a815fbc9da5a1.png",
+    "static/media/slavic.png": "/static/media/slavic.f715d51a35053b73d4bb.png",
+    "static/media/alien.png": "/static/media/alien.b8c9c81edc001523d601.png",
+    "static/media/roman-city-builder.png": "/static/media/roman-city-builder.77f3bc1034f6dedf2a12.png",
+    "static/media/speech.png": "/static/media/speech.615bb3ddde7405902386.png",
+    "static/media/decision-maker.png": "/static/media/decision-maker.8e1dcb8f69bdb9e6513c.png",
+    "static/media/classic2.jpg": "/static/media/classic2.a49ed7d7564b1870f5bf.jpg",
+    "static/media/classic.jpg": "/static/media/classic.13c41db45f2fa31e73c6.jpg",
+    "static/media/fotoMW.jpg": "/static/media/fotoMW.a8b8248a2e395aafe882.jpg",
+    "index.html": "/index.html",
+    "main.862d99e9.css.map": "/static/css/main.862d99e9.css.map",
+    "main.04560313.js.map": "/static/js/main.04560313.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99c17980.css",
-    "static/js/main.598136f5.js"
+    "static/css/main.862d99e9.css",
+    "static/js/main.04560313.js"
   ]
 }
